@@ -47,5 +47,13 @@ npx expo start
 ```
 
 This will open the Expo development page in your terminal. From there, you can run the app on a simulator/emulator or on your physical device using the Expo Go app.
-# crypto-challenge
+
+## App Image References:
+
+![Screenshot 2023-06-05 at 11 36 50](https://github.com/roycuenca/crypto-challenge/assets/38863724/89733396-6619-40e7-9bf4-91799d2e81f8)
+
+![Screenshot 2023-06-05 at 11 37 06](https://github.com/roycuenca/crypto-challenge/assets/38863724/94392614-936d-4ca6-8628-83dea1182271)
+
+![Screenshot 2023-06-05 at 11 37 41](https://github.com/roycuenca/crypto-challenge/assets/38863724/9627ee55-8e7e-49a9-ae76-8ee2cca72d83)
+
 # crypto-challenge
